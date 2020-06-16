@@ -1,23 +1,22 @@
-# Convert an HTML Document into a WordPress Theme
+# Create a Base (Starter) WordPress Theme
 
 ## Description
 
-Develop a base WordPress theme using basic HTML, CSS, and PHP.
+Develop a starter WordPress theme using basic HTML, CSS, and PHP.
 
 ## Objectives
 
 After completing this lesson, participants will be able to:
 
-* Modify an existing HTML document.
-* Create basic WordPress theme files.
-* Create a basic CSS file.
-* Incorporate HTML and CSS into a WordPress theme file.
-* Apply basic PHP tags inside WordPress theme files.
-* Install and use a custom WordPress theme.
+* Create a basic WordPress theme.
+* Incorporate HTML and CSS in theme files.
+* Add functionality to a theme using PHP.
+* Install and use theme.
+* Modify a theme using the Theme Editor.
 
 ## Target Audience
 
-Who is this lesson intended for? What interests/skills would they bring? Put an "x" in the brackets for all that apply.
+Who is this lesson intended for? What interests/skills would they bring?
 
 * [ ] Users / Content Writers
 * [x] Designers
@@ -28,15 +27,14 @@ Who is this lesson intended for? What interests/skills would they bring? Put an 
 
 ## Experience Level
 
-How much experience would a participant need to get the most from this lesson? Put an "x" in the brackets for all that apply.
-
+How much experience would a participant need to get the most from this lesson?
 * [x] Beginner
 * [x] Intermediate
 * [ ] Advanced
 
 ## Type of Instruction
 
-Which strategies will be used for this lesson plan? Put an "x" in the brackets for all that apply.
+Which strategies will be used for this lesson plan?
 
 * [x] Demonstration
 * [ ] Discussion
@@ -49,7 +47,7 @@ Which strategies will be used for this lesson plan? Put an "x" in the brackets f
 
 ## Time Estimate (Duration)
 
-How long will it take to present this lesson? Put an "x" in the brackets for the one that applies.
+How long will it take to present this lesson?
 
 * [ ] 1 hour or less
 * [x] 2-4 hours (half-day)
@@ -64,14 +62,14 @@ Participants will get the most from this lesson if they have familiarity with:
 * Experience with HTML and CSS.
 * Basic knowledge of WordPress.
 * Basic knowledge of PHP tags used in WordPress.
-* Basic knowledge of the Appearance menu's Theme Editor in the WordPress administration area.
+* Basic knowledge of the Theme Editor in WordPress.
 
 ## Readiness Questions
 
 * Do you know how to structure a basic HTML document?
 * Do you know how to write basic CSS?
 * Do you want to learn more about how PHP works in themes?
-* Do you want to design minimalist WordPress themes?
+* Do you want to design starter WordPress themes?
 
 ## Slides
 
